@@ -48,7 +48,10 @@ Provincial Government
 - 📹 Twitch Streaming: [twitch.tv/scootr](https://twitch.tv/scootr)
 
 ## 📫 Get In Touch
-- [dev@scootr.ca](mailto:dev@scootr.ca)
+- Professional Email: [hello@jeremyshields.ca](mailto:hello@jeremyshields.ca)
+- Development Related: [dev@scootr.ca](mailto:dev@scootr.ca)
+- Bluesky: [@scootr.ca](https://bsky.app/profile/scootr.ca)
+- Bluesky: [@jeremyshields.ca](https://bsky.app/profile/jeremyshields.ca)
 
 ---
 
