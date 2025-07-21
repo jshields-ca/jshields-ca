@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm jshields-ca 👋
 
-<!--
-**jshields-ca/jshields-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creator and technologist dedicated to exploring, deconstructing, and building compelling digital experiences—from the stories in sports to the code behind our digital world.  
 
-Here are some ideas to get you started:
+## 🚀 Profession
+Developer & Digital Communicator  
+Internal and Public Department Communication  
+Provincial Government  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Top Skills
+- HTML
+- CSS
+- JavaScript
+- Documentation
+- Project Management
+
+## 💻 Project Toolkit
+- IDEs: [VS Code](https://code.visualstudio.com/) / [Cursor](https://cursor.com/home)  
+- [Linear](https://linear.app/homepage)  
+- [Dreamhost](https://www.dreamhost.com/) Shared Hosting  
+- [Railway](https://railway.com/)
+- ☕ Coffee
+
+## 🧑‍🎓 Education Goals
+- Full Stack Engineering Certification from Codecademy
+- AI Driven Development  
+- AI LLM's  
+- React
+- Node.js
+- Python
+- Advanced use of Descript
+
+## 📚 Favorite Repositories
+- [continuo](https://github.com/jshields-ca/continuo)
+- [deadlinedread](https://github.com/jshields-ca/deadlinedread)
+- [pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+
+## 🎮 Hobbies & Interests
+- Gaming (SteamDeck, PC)
+- Continuous Learning
+- Canadian History
+- Sports
+- Podcast
+
+## 🌐 Websites & Projects
+- 📃 Resume/CV: [jeremyshields.ca](https://jeremyshields.ca)  
+- 🔗 Projects Hub: [scootr.ca](https://scootr.ca)  
+- 🎙️ ScootTalks Podcast: [scootr.ca/scoottalks](https://scootr.ca/scoottalks)
+
+## 📫 Get In Touch
+- Professional Email: [hello@jeremyshields.ca](mailto:hello@jeremyshields.ca)  
+- Development Email: [dev@scootr.ca](mailto:dev@scootr.ca)
+
+---
+
+> “Always learning, always building. Canadian dev & digital communicator.”
+
