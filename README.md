@@ -23,8 +23,7 @@ Provincial Government
 
 ## 🧑‍🎓 Education Goals
 - Full Stack Engineering Certification from Codecademy
-- AI Driven Development  
-- AI LLM's  
+- AI Tools  
 - React
 - Node.js
 - Python
@@ -46,10 +45,10 @@ Provincial Government
 - 📃 Resume/CV: [jeremyshields.ca](https://jeremyshields.ca)  
 - 🔗 Projects Hub: [scootr.ca](https://scootr.ca)  
 - 🎙️ ScootTalks Podcast: [scootr.ca/scoottalks](https://scootr.ca/scoottalks)
+- 📹 Twitch Streaming: [twitch.tv/scootr](https://twitch.tv/scootr)
 
 ## 📫 Get In Touch
-- Professional Email: [hello@jeremyshields.ca](mailto:hello@jeremyshields.ca)  
-- Development Email: [dev@scootr.ca](mailto:dev@scootr.ca)
+- [dev@scootr.ca](mailto:dev@scootr.ca)
 
 ---
 
