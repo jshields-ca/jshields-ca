@@ -13,7 +13,7 @@ Building Projects/Learning as I go
 
 
 ## 💻 Project Toolkit
-- IDEs: [VS Code](https://code.visualstudio.com/) / [Cursor](https://cursor.com/home)  
+- IDEs: [VS Code](https://code.visualstudio.com/) 
 - [Linear](https://linear.app/homepage)  
 - [Dreamhost](https://www.dreamhost.com/) Shared Hosting  
 - [Railway](https://railway.com/)
