@@ -9,11 +9,12 @@ Provincial Government
 
 ## 📚 Learning  
 Full-Stack Engineering @ Codecademy  
+Home Lab / Media Server Management  
 Building Projects/Learning as I go  
 
 
 ## 💻 Project Toolkit
-- IDEs: [VS Code](https://code.visualstudio.com/) 
+- [VS Code](https://code.visualstudio.com/) 
 - [Linear](https://linear.app/homepage)  
 - [Dreamhost](https://www.dreamhost.com/) Shared Hosting  
 - [Railway](https://railway.com/)
@@ -24,7 +25,8 @@ Building Projects/Learning as I go
 - Continuous Learning
 - Canadian History
 - Sports
-- Podcast
+- Podcasts  
+- Home Lab/Server Development  
 
 ## 🌐 Websites & Projects
 - 📃 Resume/CV: [jeremyshields.ca](https://jeremyshields.ca)  
