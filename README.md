@@ -1,6 +1,6 @@
 # Hi, I'm jshields-ca 👋 (or scootr, if you wish)
 
-I am a creator and technologist dedicated to building compelling digital experiences—from the narratives of sports to the code that powers our digital world. By day, I navigate public communications for the provincial government; by night, I’m an aspiring Full-Stack Engineer architecting a private, open-source ecosystem on **opti-scoot**. Whether I'm tuning a Docker stack or diving into Canadian history, I thrive on deconstructing complex systems and rebuilding them to be more engaging.
+I am a creator and technologist dedicated to building compelling digital experiences—from the narratives of sports to the code that powers our digital world. By day, I navigate public communications for the provincial government; by night, I’m an aspiring Full-Stack Engineer architecting a private, open-source ecosystem. Whether I'm in a deep ADHD hyper-focus, or just exploring something new, I thrive on deconstructing complex systems and rebuilding them to be more engaging.
 
 ### **The Current Stacks:**
 - 🚀 **Professional:** Public and Internal Communications for the Provincial Government.
