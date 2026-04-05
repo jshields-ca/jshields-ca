@@ -1,15 +1,12 @@
 # Hi, I'm jshields-ca 👋 (or scootr, if you wish)
 
-I'm a creator and technologist dedicated to exploring, deconstructing, and building compelling digital experiences—from the stories in sports to the code behind our digital world. I am becoming more active in my own development exploration and education, as well as self-hosted open source solutions. 
+I am a creator and technologist dedicated to building compelling digital experiences—from the narratives of sports to the code that powers our digital world. By day, I navigate public communications for the provincial government; by night, I’m an aspiring Full-Stack Engineer architecting a private, open-source ecosystem on **opti-scoot**. Whether I'm tuning a Docker stack or diving into Canadian history, I thrive on deconstructing complex systems and rebuilding them to be more engaging.
 
-## 🚀 Profession (The Day Job)
-Aspiring Developer & Digital Communicator  
-Internal and Public Department Communication @ Provincial Government 
-
-## 📚 Always Learning  
-Full-Stack Engineering @ Codecademy `In Progress`  
-Self Hosted Home Lab Administration  
-Building Projects and Learning As I Work  
+**The Current Stacks:**
+- 🚀 **Professional:** Public and Internal Communications for the Provincial Government.
+- 🎓 **Education:** Full-Stack Engineering (Codecademy) & Home Lab Administration (Ubuntu/Unraid).
+- 🌍 **Passions:** Canadian History, Geopolitics, and a deep Sports rotation (NHL, CPL, EPL, MLB, NFL, NBA).
+- 🎮 **Leisure:** SteamDeck gaming ([My Current Backlog](https://infinitebacklog.net/users/scootr)) and curated Podcasts/Music.
 
 ## 🧑‍💻 Project Toolkit
 - ☕ Coffee
@@ -81,24 +78,14 @@ My gaming and developing machine, the heart.
 
 </details>
 
-## 🎮 Hobbies & Interests
-- Gaming (SteamDeck, PC) - [My Current Backlog](https://infinitebacklog.net/users/scootr)
-- Continuous Learning  
-- Canadian History / Geopolitics  
-- Sports (NHL, CPL, EPL, MLB, NFL, NBA)  
-- Podcasts / Music  
-
 ## 🌐 Websites & Projects
 - 📃 Resume/CV: [jeremyshields.ca](https://jeremyshields.ca)  
 - 🔗 Projects Hub: [scootr.ca](https://scootr.ca)  
 - 🎙️ ScootTalks Podcast: [scootr.ca/scoottalks](https://scootr.ca/scoottalks)
 - 📹 Twitch Streaming: [twitch.tv/scootr](https://twitch.tv/scootr)
 
-## 📫 Get In Touch
-- Professional Email: [hello@jeremyshields.ca](mailto:hello@jeremyshields.ca)
-- Development Related: [dev@scootr.ca](mailto:dev@scootr.ca)
-- Bluesky: [@scootr.ca](https://bsky.app/profile/scootr.ca)
-- Bluesky: [@jeremyshields.ca](https://bsky.app/profile/jeremyshields.ca)
+![Static Badge](https://img.shields.io/badge/professional_email-hello%40jeremyshields.ca-252525?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Ahello%40jeremyshields.ca) ![Static Badge](https://img.shields.io/badge/dev_email-dev%40scootr.ca-0e643d?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Adev%40scootr.ca)    
+![Bluesky followers](https://img.shields.io/bluesky/followers/jeremyshields.ca?style=for-the-badge&logo=bluesky&label=%40jeremyshields.ca&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fjeremyshields.ca) ![Bluesky followers](https://img.shields.io/bluesky/followers/scootr.ca?style=for-the-badge&logo=bluesky&label=%40scootr.ca&color=0e643d&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fscootr.ca) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/grewupinwpg?style=for-the-badge&logo=reddit&logoColor=white&color=26992e&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fgrewupinwpg%2F)
 
 ---
 
