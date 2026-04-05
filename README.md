@@ -21,6 +21,8 @@ I am a creator and technologist dedicated to building compelling digital experie
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:activity-->
+
 ## 💻 Home Lab Information
 
 I've grown from a small media server to a constantly evolving home lab that I hope to continue to expand to become more self-reliant and privacy-aware. You can review some of the hardware and deployed services below. I take great pride in learning as I do!
