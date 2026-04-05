@@ -21,6 +21,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Latest GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#517](https://github.com/journiv/journiv-app/issues/517) in [journiv/journiv-app](https://github.com/journiv/journiv-app)
 2. 🚀 Published release [TitanSpecLoadouts v0.1.1](https://github.com/jshields-ca/TitanSpecsLoadouts/releases/tag/v0.1.1) in [jshields-ca/TitanSpecsLoadouts](https://github.com/jshields-ca/TitanSpecsLoadouts)
