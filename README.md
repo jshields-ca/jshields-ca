@@ -19,6 +19,15 @@ I am a creator and technologist dedicated to building compelling digital experie
 - [VS Code](https://code.visualstudio.com/)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 March 2026 - To: 04 April 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Latest GitHub Activity
