@@ -1,4 +1,4 @@
-# Hi, I'm jshields-ca 👋 (or scootr, if you wish)
+# <img src="https://scootr.ca/files/scootr-ca.png" height="35" width="35" /> Hi, I'm jshields-ca 👋 (or scootr, if you wish)
 
 I am a creator and technologist dedicated to building compelling digital experiences—from the narratives of sports to the code that powers our digital world. By day, I navigate public communications for the provincial government; by night, I’m an aspiring Full-Stack Engineer architecting a private, open-source ecosystem. Whether I'm in a deep ADHD hyper-focus, or just exploring something new, I thrive on deconstructing complex systems and rebuilding them to be more engaging.
 
@@ -14,6 +14,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 - [Gemini Pro](https://gemini.google.com/), [Claude](https://claude.ai/) AI Guidance
 - [Linear](https://linear.app/homepage)
 - [micro](https://github.com/zyedidia/micro) or good ol' `nano`
+- [Obsidian.md](https://obsidian.md/)
 - [Railway](https://railway.com/) or [Vercel](https://vercel.com)  
 - [VS Code](https://code.visualstudio.com/)
 
