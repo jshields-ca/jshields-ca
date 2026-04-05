@@ -11,11 +11,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
 
-```markdown, rust, yaml, yml, html, css
-From: 28 March 2026 - To: 04 April 2026
-
-Total Time: 0 secs
-
+```txt
 No activity tracked
 ```
 
