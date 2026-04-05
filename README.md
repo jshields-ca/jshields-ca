@@ -78,11 +78,13 @@ My gaming and developing machine, the heart.
 
 </details>
 
-## 🌐 Websites & Projects
+## 🌐 Personal Projects
 - 📃 Resume/CV: [jeremyshields.ca](https://jeremyshields.ca)  
 - 🔗 Projects Hub: [scootr.ca](https://scootr.ca)  
 - 🎙️ ScootTalks Podcast: [scootr.ca/scoottalks](https://scootr.ca/scoottalks)
 - 📹 Twitch Streaming: [twitch.tv/scootr](https://twitch.tv/scootr)
+
+## 💬 Track Me Down
 
 ![Static Badge](https://img.shields.io/badge/professional_email-hello%40jeremyshields.ca-252525?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Ahello%40jeremyshields.ca) ![Static Badge](https://img.shields.io/badge/dev_email-dev%40scootr.ca-0e643d?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Adev%40scootr.ca)    
 ![Bluesky followers](https://img.shields.io/bluesky/followers/jeremyshields.ca?style=for-the-badge&logo=bluesky&label=%40jeremyshields.ca&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fjeremyshields.ca) ![Bluesky followers](https://img.shields.io/bluesky/followers/scootr.ca?style=for-the-badge&logo=bluesky&label=%40scootr.ca&color=0e643d&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fscootr.ca) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/grewupinwpg?style=for-the-badge&logo=reddit&logoColor=white&color=26992e&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fgrewupinwpg%2F)
