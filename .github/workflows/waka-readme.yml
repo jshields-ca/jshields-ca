@@ -24,13 +24,13 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          # CODE_LANG: rust, yaml, yml, html, css # optional
+          CODE_LANG: markdown, rust, yaml, yml, html, css # optional
           TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # optional
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
