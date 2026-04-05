@@ -20,6 +20,9 @@ Building Projects and Learning As I Work
 - [Railway](https://railway.com/) or [Vercel](https://vercel.com)  
 - [VS Code](https://code.visualstudio.com/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 💻 Home Lab Information
 
 I've grown from a small media server to a constantly evolving home lab that I hope to continue to expand to become more self-reliant and privacy-aware. You can review some of the hardware and deployed services below. I take great pride in learning as I do!
