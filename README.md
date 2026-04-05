@@ -2,7 +2,7 @@
 
 I am a creator and technologist dedicated to building compelling digital experiences—from the narratives of sports to the code that powers our digital world. By day, I navigate public communications for the provincial government; by night, I’m an aspiring Full-Stack Engineer architecting a private, open-source ecosystem on **opti-scoot**. Whether I'm tuning a Docker stack or diving into Canadian history, I thrive on deconstructing complex systems and rebuilding them to be more engaging.
 
-**The Current Stacks:**
+### **The Current Stacks:**
 - 🚀 **Professional:** Public and Internal Communications for the Provincial Government.
 - 🎓 **Education:** Full-Stack Engineering (Codecademy) & Home Lab Administration (Ubuntu/Unraid).
 - 🌍 **Passions:** Canadian History, Geopolitics, and a deep Sports rotation (NHL, CPL, EPL, MLB, NFL, NBA).
