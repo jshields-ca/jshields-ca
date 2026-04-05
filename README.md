@@ -8,16 +8,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 - 🌍 **Passions:** Canadian History, Geopolitics, and a deep Sports rotation (NHL, CPL, EPL, MLB, NFL, NBA).
 - 🎮 **Leisure:** SteamDeck gaming ([My Current Backlog](https://infinitebacklog.net/users/scootr)) and curated Podcasts/Music.
 
-## 🧑‍💻 Project Toolkit
-- ☕ Coffee
-- [Dreamhost](https://www.dreamhost.com/) Shared Hosting
-- [Gemini Pro](https://gemini.google.com/), [Claude](https://claude.ai/) AI Guidance
-- [Linear](https://linear.app/homepage)
-- [micro](https://github.com/zyedidia/micro) or good ol' `nano`
-- [Obsidian.md](https://obsidian.md/)
-- [Railway](https://railway.com/) or [Vercel](https://vercel.com)  
-- [VS Code](https://code.visualstudio.com/)
-
+## Wakatime Metrics
 <!--START_SECTION:waka-->
 
 ```txt
