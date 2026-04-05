@@ -12,7 +12,11 @@ I am a creator and technologist dedicated to building compelling digital experie
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other            2 hrs 6 mins          █████████▒░░░░░░░░░░░░░░░   36.80 %
+Markdown         1 hr 28 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+Kotlin           1 hr 22 mins          ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+YAML             28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Bash             14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
