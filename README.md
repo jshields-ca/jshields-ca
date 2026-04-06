@@ -21,6 +21,10 @@ Bash             14 mins               ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## Todoist Stats
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#2](https://github.com/jshields-ca/youdeserve.fun/issues/2) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
