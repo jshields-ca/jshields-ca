@@ -87,16 +87,16 @@ Linux                    34 mins             ██░░░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#46](https://github.com/Panonim/dynacat/issues/46) in [Panonim/dynacat](https://github.com/Panonim/dynacat)
-2. ❌ Closed PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
-3. 🗣 Commented on [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2#issuecomment-4193683037) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
-4. 💪 Opened PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
-5. ℹ️ Assigned PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
-6. 🎉 Merged PR [#2](https://github.com/jshields-ca/dynacat-todoist/pull/2) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-7. 💪 Opened PR [#2](https://github.com/jshields-ca/dynacat-todoist/pull/2) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-8. 🎉 Merged PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-9. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-10. 💪 Opened PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+1. 💪 Opened PR [#10](https://github.com/Panonim/dynawidgets/pull/10) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
+2. 🎉 Merged PR [#3](https://github.com/jshields-ca/dynacat-todoist/pull/3) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+3. ℹ️ Labeled PR [#3](https://github.com/jshields-ca/dynacat-todoist/pull/3) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+4. ℹ️ Labeled PR [#3](https://github.com/jshields-ca/dynacat-todoist/pull/3) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+5. 💪 Opened PR [#3](https://github.com/jshields-ca/dynacat-todoist/pull/3) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+6. ℹ️ Assigned PR [#3](https://github.com/jshields-ca/dynacat-todoist/pull/3) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+7. ❗ Opened issue [#46](https://github.com/Panonim/dynacat/issues/46) in [Panonim/dynacat](https://github.com/Panonim/dynacat)
+8. ❌ Closed PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+9. 🗣 Commented on [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2#issuecomment-4193683037) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+10. 💪 Opened PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
 <!--END_SECTION:activity-->
 
 ## 🌐 Personal Projects
