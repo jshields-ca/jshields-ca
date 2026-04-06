@@ -107,7 +107,7 @@ Linux                    34 mins             ██░░░░░░░░░�
 
 ## 💬 Track Me Down
 
-[![Static Badge](https://img.shields.io/badge/general_email-hello%40jeremyshields.ca-2f2f2f?style=flat-square&logo=maildotru&logoColor=white&link=mailto%3Ahello%40jeremyshields.ca)](mailto:hello@jeremyshields.ca) ![Static Badge](https://img.shields.io/badge/dev_email-dev%40scootr.ca-0e643d?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Adev%40scootr.ca)    
+[![Static Badge](https://img.shields.io/badge/general_email-hello%40jeremyshields.ca-2f2f2f?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Ahello%40jeremyshields.ca)](mailto:hello@jeremyshields.ca) ![Static Badge](https://img.shields.io/badge/dev_email-dev%40scootr.ca-0e643d?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Adev%40scootr.ca)    
 ![Bluesky followers](https://img.shields.io/bluesky/followers/jeremyshields.ca?style=for-the-badge&logo=bluesky&label=%40jeremyshields.ca&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fjeremyshields.ca) ![Bluesky followers](https://img.shields.io/bluesky/followers/scootr.ca?style=for-the-badge&logo=bluesky&label=%40scootr.ca&color=0e643d&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fscootr.ca) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/grewupinwpg?style=for-the-badge&logo=reddit&logoColor=white&color=26992e&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fgrewupinwpg%2F)
 
 ---
