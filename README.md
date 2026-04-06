@@ -87,16 +87,16 @@ Linux                    34 mins             ██░░░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jshields-ca/dynacat-todoist/pull/2) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-2. 💪 Opened PR [#2](https://github.com/jshields-ca/dynacat-todoist/pull/2) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-3. 🎉 Merged PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-4. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-5. 💪 Opened PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
-6. 🔒 Closed issue [#2](https://github.com/jshields-ca/youdeserve.fun/issues/2) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
-7. 🔒 Closed issue [#1](https://github.com/jshields-ca/youdeserve.fun/issues/1) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
-8. 🔒 Closed issue [#8](https://github.com/jshields-ca/continuo/issues/8) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-9. 🔒 Closed issue [#7](https://github.com/jshields-ca/continuo/issues/7) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-10. 🔒 Closed issue [#4](https://github.com/jshields-ca/continuo/issues/4) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
+1. ❌ Closed PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+2. 🗣 Commented on [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2#issuecomment-4193683037) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+3. 💪 Opened PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+4. ℹ️ Assigned PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+5. 🎉 Merged PR [#2](https://github.com/jshields-ca/dynacat-todoist/pull/2) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+6. 💪 Opened PR [#2](https://github.com/jshields-ca/dynacat-todoist/pull/2) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+7. 🎉 Merged PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+8. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+9. 💪 Opened PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+10. 🔒 Closed issue [#2](https://github.com/jshields-ca/youdeserve.fun/issues/2) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
 <!--END_SECTION:activity-->
 
 ## 🌐 Personal Projects
