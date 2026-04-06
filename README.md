@@ -95,16 +95,16 @@ Linux                    34 mins             ██░░░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/jshields-ca/youdeserve.fun/issues/2) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
-2. 🔒 Closed issue [#1](https://github.com/jshields-ca/youdeserve.fun/issues/1) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
-3. 🔒 Closed issue [#8](https://github.com/jshields-ca/continuo/issues/8) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-4. 🔒 Closed issue [#7](https://github.com/jshields-ca/continuo/issues/7) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-5. 🔒 Closed issue [#4](https://github.com/jshields-ca/continuo/issues/4) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-6. 🔒 Closed issue [#6](https://github.com/jshields-ca/continuo/issues/6) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-7. 🔒 Closed issue [#5](https://github.com/jshields-ca/continuo/issues/5) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-8. 🔒 Closed issue [#2](https://github.com/jshields-ca/continuo/issues/2) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-9. 🔒 Closed issue [#1](https://github.com/jshields-ca/continuo/issues/1) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
-10. 🔒 Closed issue [#3](https://github.com/jshields-ca/continuo/issues/3) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
+1. 🎉 Merged PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+2. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+3. 💪 Opened PR [#1](https://github.com/jshields-ca/dynacat-todoist/pull/1) in [jshields-ca/dynacat-todoist](https://github.com/jshields-ca/dynacat-todoist)
+4. 🔒 Closed issue [#2](https://github.com/jshields-ca/youdeserve.fun/issues/2) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
+5. 🔒 Closed issue [#1](https://github.com/jshields-ca/youdeserve.fun/issues/1) in [jshields-ca/youdeserve.fun](https://github.com/jshields-ca/youdeserve.fun)
+6. 🔒 Closed issue [#8](https://github.com/jshields-ca/continuo/issues/8) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
+7. 🔒 Closed issue [#7](https://github.com/jshields-ca/continuo/issues/7) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
+8. 🔒 Closed issue [#4](https://github.com/jshields-ca/continuo/issues/4) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
+9. 🔒 Closed issue [#6](https://github.com/jshields-ca/continuo/issues/6) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
+10. 🔒 Closed issue [#5](https://github.com/jshields-ca/continuo/issues/5) in [jshields-ca/continuo](https://github.com/jshields-ca/continuo)
 <!--END_SECTION:activity-->
 
 ## 🌐 Personal Projects
