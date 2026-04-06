@@ -10,15 +10,78 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2042%20mins-blue?style=flat)
 
-```txt
-Other            3 hrs 14 mins         ███████████░░░░░░░░░░░░░░   43.48 %
-Markdown         2 hrs 2 mins          ███████░░░░░░░░░░░░░░░░░░   27.52 %
-Kotlin           1 hr 22 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-YAML             30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Bash             14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 39.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+🌆 Daytime                1467 commits        ██████████████░░░░░░░░░░░   55.36 % 
+🌃 Evening                878 commits         ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Tuesday                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Thursday                 762 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Friday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Saturday                 591 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Sunday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
+Markdown                 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Kotlin                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+
+🔥 Editors: 
+Firefox                  5 hrs 40 mins       ███████████████████░░░░░░   76.25 % 
+Obsidian                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+VS Code                  34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+DesktopSSHClient         21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🐱‍💻 Projects: 
+beszel                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Unknown Project          1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+ghostfolio               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+scootr                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+jshields-ca              53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+
+💻 Operating System: 
+Windows                  6 hrs 52 mins       ███████████████████████░░   92.32 % 
+Linux                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jshields-ca/jshields-ca/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/04/2026 14:44:29 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
