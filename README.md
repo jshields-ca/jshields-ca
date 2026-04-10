@@ -87,16 +87,16 @@ Linux                    1 hr 25 mins        █░░░░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0 - Initial release](https://github.com/jshields-ca/daylio-to-memos-import/releases/tag/v0.1.0) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-2. 🎉 Merged PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-3. ℹ️ Labeled PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-4. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-5. ℹ️ Labeled PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-6. 💪 Opened PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-7. 🗣 Commented on [#46](https://github.com/Panonim/dynacat/issues/46#issuecomment-4207282853) in [Panonim/dynacat](https://github.com/Panonim/dynacat)
-8. 🎉 Merged PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
-9. ℹ️ Reopened PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
-10. 💪 Opened PR [#10](https://github.com/Panonim/dynawidgets/pull/10) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
+1. 🗣 Commented on [#10](https://github.com/Panonim/dynawidgets/pull/10#issuecomment-4225538042) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
+2. 🚀 Published release [v0.1.0 - Initial release](https://github.com/jshields-ca/daylio-to-memos-import/releases/tag/v0.1.0) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+3. 🎉 Merged PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+4. ℹ️ Labeled PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+5. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+6. ℹ️ Labeled PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+7. 💪 Opened PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+8. 🗣 Commented on [#46](https://github.com/Panonim/dynacat/issues/46#issuecomment-4207282853) in [Panonim/dynacat](https://github.com/Panonim/dynacat)
+9. 🎉 Merged PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
+10. ℹ️ Reopened PR [#2](https://github.com/jshields-ca/pdf-accessibility/pull/2) in [jshields-ca/pdf-accessibility](https://github.com/jshields-ca/pdf-accessibility)
 <!--END_SECTION:activity-->
 
 ## 🌐 Personal Projects
