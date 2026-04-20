@@ -87,13 +87,13 @@ Linux                    4 hrs 27 mins       ████░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Panonim/dynawidgets/pull/10) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
-2. 🚀 Published release [v0.1.0](https://github.com/jshields-ca/dynacat-wakatime/releases/tag/v0.1.0) in [jshields-ca/dynacat-wakatime](https://github.com/jshields-ca/dynacat-wakatime)
-3. 🎉 Merged PR [#1](https://github.com/jshields-ca/dynacat-wakatime/pull/1) in [jshields-ca/dynacat-wakatime](https://github.com/jshields-ca/dynacat-wakatime)
-4. 💪 Opened PR [#1](https://github.com/jshields-ca/dynacat-wakatime/pull/1) in [jshields-ca/dynacat-wakatime](https://github.com/jshields-ca/dynacat-wakatime)
-5. 🗣 Commented on [#10](https://github.com/Panonim/dynawidgets/pull/10#issuecomment-4225538042) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
-6. 🚀 Published release [v0.1.0 - Initial release](https://github.com/jshields-ca/daylio-to-memos-import/releases/tag/v0.1.0) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
-7. 🎉 Merged PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
+1. 🗣 Commented on [#934](https://github.com/wizarrrr/wizarr/issues/934#issuecomment-4283969986) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
+2. 🗣 Commented on [#1094](https://github.com/wizarrrr/wizarr/issues/1094#issuecomment-4283967802) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
+3. 🎉 Merged PR [#10](https://github.com/Panonim/dynawidgets/pull/10) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
+4. 🚀 Published release [v0.1.0](https://github.com/jshields-ca/dynacat-wakatime/releases/tag/v0.1.0) in [jshields-ca/dynacat-wakatime](https://github.com/jshields-ca/dynacat-wakatime)
+5. 🎉 Merged PR [#1](https://github.com/jshields-ca/dynacat-wakatime/pull/1) in [jshields-ca/dynacat-wakatime](https://github.com/jshields-ca/dynacat-wakatime)
+6. 💪 Opened PR [#1](https://github.com/jshields-ca/dynacat-wakatime/pull/1) in [jshields-ca/dynacat-wakatime](https://github.com/jshields-ca/dynacat-wakatime)
+7. 🗣 Commented on [#10](https://github.com/Panonim/dynawidgets/pull/10#issuecomment-4225538042) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
 8. ℹ️ Labeled PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
 9. ℹ️ Assigned PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
 10. ℹ️ Labeled PR [#1](https://github.com/jshields-ca/daylio-to-memos-import/pull/1) in [jshields-ca/daylio-to-memos-import](https://github.com/jshields-ca/daylio-to-memos-import)
