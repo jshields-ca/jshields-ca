@@ -76,10 +76,10 @@ Windows                  1 hr 40 mins        ███████████�
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **5,313** Karma Points           
-🌸  Completed **4** tasks today           
-✅  Completed **280** tasks so far           
-🔥  Current streak: **0 days** - Start one today!           
+🏆  **5,359** Karma Points           
+🌸  Completed **5** tasks today           
+✅  Completed **285** tasks so far           
+🔥  Current streak: **1 day**           
 ⏳  Longest streak is **5** days
 <!-- TODO-IST:END -->
 
