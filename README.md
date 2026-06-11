@@ -75,10 +75,10 @@ Linux                    17 mins             █░░░░░░░░░░�
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **6,613** Karma Points           
-🌸  Completed **5** tasks today           
-✅  Completed **376** tasks so far           
-🔥  Current streak: **1 day**           
+🏆  **6,646** Karma Points           
+🌸  Completed **8** tasks today           
+✅  Completed **384** tasks so far           
+🔥  Current streak: **2 days**           
 ⏳  Longest streak is **5** days
 <!-- TODO-IST:END -->
 
