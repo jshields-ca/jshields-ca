@@ -66,11 +66,11 @@ Windows                  0 secs              ███████████�
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **6,869** Karma Points           
-🌸  Completed **5** tasks today           
-✅  Completed **402** tasks so far           
-🔥  Current streak: **5 days**           
-⏳  Longest streak is **5** days
+🏆  **6,970** Karma Points           
+🌸  Completed **7** tasks today           
+✅  Completed **409** tasks so far           
+🔥  Current streak: **6 days**           
+⏳  Longest streak is **6** days
 <!-- TODO-IST:END -->
 
 ## Latest GitHub Activity
