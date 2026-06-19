@@ -73,10 +73,10 @@ Windows                  30 mins             ████████░░░�
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **7,079** Karma Points           
+🏆  **7,172** Karma Points           
 🌸  Completed **3** tasks today           
-✅  Completed **416** tasks so far           
-🔥  Current streak: **0 days** - Start one today!           
+✅  Completed **428** tasks so far           
+🔥  Current streak: **1 day**           
 ⏳  Longest streak is **6** days
 <!-- TODO-IST:END -->
 
