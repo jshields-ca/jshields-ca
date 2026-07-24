@@ -14,7 +14,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 > 📦 69.5 kB Used in GitHub's Storage 
  > 
-> 🏆 422 Contributions in the Year 2026
+> 🏆 425 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,8 +26,8 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ```text
 🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                1663 commits        ██████████████░░░░░░░░░░░   54.33 % 
-🌃 Evening                1057 commits        █████████░░░░░░░░░░░░░░░░   34.53 % 
+🌆 Daytime                1664 commits        ██████████████░░░░░░░░░░░   54.33 % 
+🌃 Evening                1058 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
 🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -36,10 +36,10 @@ I am a creator and technologist dedicated to building compelling digital experie
 Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 841 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Friday                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Saturday                 641 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Sunday                   178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Friday                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Saturday                 641 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Sunday                   178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 
@@ -47,29 +47,31 @@ Sunday                   178 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 29 mins       █████████████████░░░░░░░░   68.62 % 
-Astro                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 4 hrs 7 mins        ██████████████████░░░░░░░   72.93 % 
+HTML                     1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████░░░░░░░░░░░░   50.15 % 
-Claude Code              3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.97 % 
-Firefox                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+VS Code                  3 hrs 29 mins       ███████████████░░░░░░░░░░   61.58 % 
+Claude Code              1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Firefox                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 
 🐱‍💻 Projects: 
-scootr-astro             6 hrs 54 mins       ██████████████████████░░░   86.38 % 
-flix-email-templates     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-scootr                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+scootr-astro             3 hrs 15 mins       ██████████████░░░░░░░░░░░   57.50 % 
+flix-email-templates     1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+retrobios                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+scootr                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+grimmory                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Windows                  7 hrs 46 mins       ████████████████████████░   97.26 % 
-Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Windows                  5 hrs 26 mins       ████████████████████████░   96.06 % 
+Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 
 
- Last Updated on 23/07/2026 19:55:22 UTC
+ Last Updated on 24/07/2026 19:54:57 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
