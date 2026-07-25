@@ -14,7 +14,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 > 📦 69.5 kB Used in GitHub's Storage 
  > 
-> 🏆 425 Contributions in the Year 2026
+> 🏆 427 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,20 +25,20 @@ I am a creator and technologist dedicated to building compelling digital experie
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                1664 commits        ██████████████░░░░░░░░░░░   54.33 % 
-🌃 Evening                1058 commits        █████████░░░░░░░░░░░░░░░░   34.54 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+🌆 Daytime                1665 commits        ██████████████░░░░░░░░░░░   54.32 % 
+🌃 Evening                1059 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-Friday                   273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Saturday                 641 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Friday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Saturday                 641 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 Sunday                   178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
@@ -47,31 +47,30 @@ Sunday                   178 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 7 mins        ██████████████████░░░░░░░   72.93 % 
-HTML                     1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+HTML                     1 hr 14 mins        █████████████░░░░░░░░░░░░   51.86 % 
+Markdown                 56 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       ███████████████░░░░░░░░░░   61.58 % 
-Claude Code              1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Firefox                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Claude Code              1 hr 17 mins        █████████████░░░░░░░░░░░░   53.62 % 
+Firefox                  45 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
+VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 
 🐱‍💻 Projects: 
-scootr-astro             3 hrs 15 mins       ██████████████░░░░░░░░░░░   57.50 % 
-flix-email-templates     1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-retrobios                38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-scootr                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-grimmory                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+flix-email-templates     1 hr 25 mins        ███████████████░░░░░░░░░░   59.34 % 
+retrobios                38 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+scootr                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+grimmory                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+scootr-astro             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  5 hrs 26 mins       ████████████████████████░   96.06 % 
-Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Windows                  2 hrs 11 mins       ███████████████████████░░   90.75 % 
+Linux                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 
 
- Last Updated on 24/07/2026 19:54:57 UTC
+ Last Updated on 25/07/2026 19:42:22 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
