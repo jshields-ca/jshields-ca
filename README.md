@@ -14,7 +14,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 > 📦 69.5 kB Used in GitHub's Storage 
  > 
-> 🏆 427 Contributions in the Year 2026
+> 🏆 429 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,21 +25,21 @@ I am a creator and technologist dedicated to building compelling digital experie
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-🌆 Daytime                1665 commits        ██████████████░░░░░░░░░░░   54.32 % 
-🌃 Evening                1059 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+🌆 Daytime                1666 commits        ██████████████░░░░░░░░░░░   54.32 % 
+🌃 Evening                1060 commits        █████████░░░░░░░░░░░░░░░░   34.56 % 
 🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 Friday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Saturday                 641 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Sunday                   178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Saturday                 643 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Sunday                   178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
@@ -47,30 +47,30 @@ Sunday                   178 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 14 mins        █████████████░░░░░░░░░░░░   51.86 % 
-Markdown                 56 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+HTML                     1 hr 28 mins        ██████████████░░░░░░░░░░░   56.00 % 
+Markdown                 56 mins             █████████░░░░░░░░░░░░░░░░   35.45 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        █████████████░░░░░░░░░░░░   53.62 % 
-Firefox                  45 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
-VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Claude Code              1 hr 17 mins        ████████████░░░░░░░░░░░░░   49.01 % 
+Firefox                  58 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
+VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 
 🐱‍💻 Projects: 
-flix-email-templates     1 hr 25 mins        ███████████████░░░░░░░░░░   59.34 % 
-retrobios                38 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-scootr                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-grimmory                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-scootr-astro             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+flix-email-templates     1 hr 25 mins        ██████████████░░░░░░░░░░░   54.24 % 
+retrobios                47 mins             ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+scootr                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+grimmory                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+car-costs                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       ███████████████████████░░   90.75 % 
-Linux                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Windows                  2 hrs 19 mins       ██████████████████████░░░   88.26 % 
+Linux                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 ```
 
 
- Last Updated on 25/07/2026 19:42:22 UTC
+ Last Updated on 26/07/2026 19:43:23 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
