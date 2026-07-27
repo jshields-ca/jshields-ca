@@ -10,11 +10,13 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2048%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 69.5 kB Used in GitHub's Storage 
  > 
-> 🏆 429 Contributions in the Year 2026
+> 🏆 431 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,20 +28,20 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ```text
 🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-🌆 Daytime                1666 commits        ██████████████░░░░░░░░░░░   54.32 % 
-🌃 Evening                1060 commits        █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌆 Daytime                1667 commits        ██████████████░░░░░░░░░░░   54.32 % 
+🌃 Evening                1061 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
 🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Friday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Saturday                 643 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Sunday                   178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Monday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Tuesday                  323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Thursday                 843 commits         ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+Friday                   275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Saturday                 643 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Sunday                   180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 
@@ -47,30 +49,51 @@ Sunday                   178 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 28 mins        ██████████████░░░░░░░░░░░   56.00 % 
-Markdown                 56 mins             █████████░░░░░░░░░░░░░░░░   35.45 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+HTML                     1 hr 44 mins        ████████████████░░░░░░░░░   64.99 % 
+Markdown                 55 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        ████████████░░░░░░░░░░░░░   49.01 % 
-Firefox                  58 mins             █████████░░░░░░░░░░░░░░░░   37.10 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Claude Code              1 hr 17 mins        ████████████░░░░░░░░░░░░░   48.35 % 
+Firefox                  1 hr 14 mins        ████████████░░░░░░░░░░░░░   46.35 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🐱‍💻 Projects: 
-flix-email-templates     1 hr 25 mins        ██████████████░░░░░░░░░░░   54.24 % 
-retrobios                47 mins             ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-scootr                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-grimmory                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-car-costs                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+flix-email-templates     1 hr 25 mins        █████████████░░░░░░░░░░░░   53.51 % 
+retrobios                47 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+steam-game-manager       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+grimmory                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+car-costs                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       ██████████████████████░░░   88.26 % 
-Linux                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Windows                  2 hrs 34 mins       ████████████████████████░   96.61 % 
+Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 25 mins (53.51%)
+
+✍️ 772 lines written by AI, 90 lines written by hand (89.56% AI-written)
+
+🔤 44,860,971 Input Tokens, 134,137 Output Tokens
+
+💵 $136.59 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 22 AI Prompts
+
+Sonnet                   892 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 89.56% of written lines came from AI
+📝 Concise Prompter — average 476 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 9.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:43:23 UTC
+ Last Updated on 27/07/2026 20:04:00 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
