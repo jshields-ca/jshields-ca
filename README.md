@@ -98,10 +98,10 @@ Sonnet                   568 lines           ███████████�
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **8,131** Karma Points           
-🌸  Completed **4** tasks today           
-✅  Completed **605** tasks so far           
-🔥  Current streak: **1 day**           
+🏆  **8,138** Karma Points           
+🌸  Completed **2** tasks today           
+✅  Completed **607** tasks so far           
+🔥  Current streak: **0 days** - Start one today!           
 ⏳  Longest streak is **6** days
 <!-- TODO-IST:END -->
 
