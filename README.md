@@ -109,13 +109,13 @@ Sonnet                   1,001 lines         ███████████�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-2. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-3. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-4. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-5. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-6. 💪 Opened PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-7. ❌ Closed PR [#11](https://github.com/Panonim/dynawidgets/pull/11) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
+1. 🎉 Merged PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+2. 💪 Opened PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+3. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+4. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+5. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+6. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+7. 💪 Opened PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
 8. 💪 Opened PR [#11](https://github.com/Panonim/dynawidgets/pull/11) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
 9. 🗣 Commented on [#934](https://github.com/wizarrrr/wizarr/issues/934#issuecomment-4283969986) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
 10. 🗣 Commented on [#1094](https://github.com/wizarrrr/wizarr/issues/1094#issuecomment-4283967802) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
