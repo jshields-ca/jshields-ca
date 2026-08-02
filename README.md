@@ -109,11 +109,11 @@ Sonnet                   1,001 lines         ███████████�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-2. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-3. 💪 Opened PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-4. 🗣 Commented on [#13](https://github.com/Panonim/dynawidgets/pull/13#issuecomment-4330553856) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
-5. 💪 Opened PR [#13](https://github.com/Panonim/dynawidgets/pull/13) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
+1. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+2. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+3. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+4. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+5. 💪 Opened PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
 6. 💪 Opened PR [#12](https://github.com/Panonim/dynawidgets/pull/12) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
 7. ❌ Closed PR [#11](https://github.com/Panonim/dynawidgets/pull/11) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
 8. 💪 Opened PR [#11](https://github.com/Panonim/dynawidgets/pull/11) in [Panonim/dynawidgets](https://github.com/Panonim/dynawidgets)
