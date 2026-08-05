@@ -10,38 +10,38 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 89.9 kB Used in GitHub's Storage 
  > 
-> 🏆 534 Contributions in the Year 2026
+> 🏆 538 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-🌆 Daytime                850 commits         █████████████░░░░░░░░░░░░   51.20 % 
-🌃 Evening                620 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌞 Morning                174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+🌆 Daytime                851 commits         █████████████░░░░░░░░░░░░   51.14 % 
+🌃 Evening                623 commits         █████████░░░░░░░░░░░░░░░░   37.44 % 
 🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Tuesday                  258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Thursday                 340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Saturday                 262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Sunday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Monday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Tuesday                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Thursday                 340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Saturday                 262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Sunday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -49,53 +49,53 @@ Sunday                   144 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Astro                    3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-HTML                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-TypeScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Markdown                 5 hrs               ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Astro                    3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+TypeScript               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Roff                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 🔥 Editors: 
-Firefox                  7 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
-Claude Code              7 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
-VS Code                  3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Claude Code              7 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
+Firefox                  5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
+VS Code                  3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
 
 🐱‍💻 Projects: 
-scootr-astro             10 hrs 22 mins      ██████████████░░░░░░░░░░░   56.23 % 
-lumina                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-effuselabs               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-FusionX                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-therapy-beauty-collective46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+scootr-astro             10 hrs 29 mins      ████████████████░░░░░░░░░   63.26 % 
+FusionX                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+PlayniteExtensions       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+effuselabs               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+therapy-beauty-collective46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Windows                  17 hrs 51 mins      ████████████████████████░   96.80 % 
-Linux                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Windows                  15 hrs 58 mins      ████████████████████████░   96.42 % 
+Linux                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 50 mins (42.47%)
+⏱ AI Coding Time: 7 hrs 51 mins (47.43%)
 
 ✍️ 2,265 lines written by AI, 50 lines written by hand (97.84% AI-written)
 
-🔤 383,273,201 Input Tokens, 476,120 Output Tokens
+🔤 383,320,627 Input Tokens, 476,226 Output Tokens
 
-💵 $1156.96 Estimated AI Cost This Week
+💵 $1157.11 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 162 AI Prompts
+🧠 5 AI Sessions, 163 AI Prompts
 
 Sonnet                   2,538 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.84% of written lines came from AI
-📄 Detailed Prompter — average 1,068 characters per prompt
-🔁 Iterative Prompter — average 40 prompts per session
+📄 Detailed Prompter — average 1,062 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
 🚀 High AI Trust — 14.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 20:08:54 UTC
+ Last Updated on 05/08/2026 20:06:21 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
