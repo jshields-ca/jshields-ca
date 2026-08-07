@@ -10,13 +10,11 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2014%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 89.9 kB Used in GitHub's Storage 
+> 📦 91.4 kB Used in GitHub's Storage 
  > 
-> 🏆 538 Contributions in the Year 2026
+> 🏆 558 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,21 +25,21 @@ I am a creator and technologist dedicated to building compelling digital experie
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-🌆 Daytime                851 commits         █████████████░░░░░░░░░░░░   51.14 % 
-🌃 Evening                623 commits         █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+🌞 Morning                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                858 commits         █████████████░░░░░░░░░░░░   51.13 % 
+🌃 Evening                626 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Tuesday                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Wednesday                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Thursday                 340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Saturday                 262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Sunday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Monday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Tuesday                  262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Wednesday                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 350 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Saturday                 262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Sunday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 
@@ -49,53 +47,53 @@ Sunday                   144 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs               ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Astro                    3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-TypeScript               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Roff                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 6 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
+Astro                    3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+TypeScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+YAML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Roff                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
-Firefox                  5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
-VS Code                  3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Firefox                  7 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+Claude Code              7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
+VS Code                  3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 
 🐱‍💻 Projects: 
-scootr-astro             10 hrs 29 mins      ████████████████░░░░░░░░░   63.26 % 
-FusionX                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-PlayniteExtensions       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-effuselabs               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-therapy-beauty-collective46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+scootr-astro             10 hrs 53 mins      ███████████████░░░░░░░░░░   58.29 % 
+FusionX                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+scootr                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+PlayniteExtensions       52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+effuselabs               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-Windows                  15 hrs 58 mins      ████████████████████████░   96.42 % 
-Linux                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Windows                  17 hrs 45 mins      ████████████████████████░   95.05 % 
+Linux                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 51 mins (47.43%)
+⏱ AI Coding Time: 8 hrs 5 mins (43.32%)
 
 ✍️ 2,265 lines written by AI, 50 lines written by hand (97.84% AI-written)
 
-🔤 383,320,627 Input Tokens, 476,226 Output Tokens
+🔤 385,427,819 Input Tokens, 492,494 Output Tokens
 
-💵 $1157.11 Estimated AI Cost This Week
+💵 $1163.67 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 163 AI Prompts
+🧠 6 AI Sessions, 175 AI Prompts
 
 Sonnet                   2,538 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.84% of written lines came from AI
-📄 Detailed Prompter — average 1,062 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
+📄 Detailed Prompter — average 1,018 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
 🚀 High AI Trust — 14.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 20:06:21 UTC
+ Last Updated on 07/08/2026 00:23:32 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
