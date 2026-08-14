@@ -10,13 +10,13 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 93.3 kB Used in GitHub's Storage 
  > 
-> 🏆 582 Contributions in the Year 2026
+> 🏆 585 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,20 +27,20 @@ I am a creator and technologist dedicated to building compelling digital experie
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌆 Daytime                1076 commits        ████████████░░░░░░░░░░░░░   48.89 % 
-🌃 Evening                869 commits         ██████████░░░░░░░░░░░░░░░   39.48 % 
+🌞 Morning                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌆 Daytime                1077 commits        ████████████░░░░░░░░░░░░░   48.89 % 
+🌃 Evening                870 commits         ██████████░░░░░░░░░░░░░░░   39.49 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   423 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Tuesday                  264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Wednesday                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Thursday                 468 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Friday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Saturday                 314 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Monday                   423 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Tuesday                  264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Wednesday                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Thursday                 470 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Friday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Saturday                 314 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 Sunday                   205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
@@ -49,54 +49,54 @@ Sunday                   205 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.72 % 
-YAML                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+YAML                     3 hrs 1 min         ████████████████░░░░░░░░░   62.23 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Firefox                  4 hrs 1 min         ██████████████░░░░░░░░░░░   56.91 % 
-VS Code                  1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Claude Code              1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+VS Code                  2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.04 % 
+Firefox                  1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Claude Code              59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🐱‍💻 Projects: 
-jeremyshields-astro      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-scootr                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-feral-toaster            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-scootr-astro             50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-TitanSpecsLoadouts       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+scootr                   1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   40.96 % 
+feral-toaster            51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+TitanSpecsLoadouts       45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+flix-email-templates     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+retrobios                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 💻 Operating System: 
-Windows                  5 hrs 59 mins       █████████████████████░░░░   84.72 % 
-Linux                    1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Windows                  2 hrs 52 mins       ███████████████░░░░░░░░░░   59.04 % 
+Linux                    1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   40.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (25.64%)
+⏱ AI Coding Time: 1 hr 19 mins (27.18%)
 
-✍️ 1,642 lines written by AI, 35 lines written by hand (97.91% AI-written)
+✍️ 1,542 lines written by AI, 82 lines written by hand (94.95% AI-written)
 
-🔤 8,203,181 Input Tokens, 73,141 Output Tokens
+🔤 179,417 Input Tokens, 53,426 Output Tokens
 
-💵 $19.36 Estimated AI Cost This Week
+💵 $3.12 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 21 AI Prompts
+🧠 5 AI Sessions, 15 AI Prompts
 
-Sonnet                   1,698 lines         █████████████████████████   100.00 % 
+Sonnet                   1,598 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.91% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.08% of changed lines were hand-edited
+🤖 AI-Driven — 94.95% of written lines came from AI
+📝 Concise Prompter — average 294 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 19:34:41 UTC
+ Last Updated on 14/08/2026 19:28:05 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
