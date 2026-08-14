@@ -110,15 +110,15 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TitanSpecLoadouts v0.1.2](https://github.com/jshields-ca/TitanSpecsLoadouts/releases/tag/v0.1.2) in [jshields-ca/TitanSpecsLoadouts](https://github.com/jshields-ca/TitanSpecsLoadouts)
-2. 🎉 Merged PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-3. 💪 Opened PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-4. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-5. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-6. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-7. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-8. 💪 Opened PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-9. 🗣 Commented on [#934](https://github.com/wizarrrr/wizarr/issues/934#issuecomment-4283969986) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
+1. ❗ Opened issue [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
+2. 🚀 Published release [TitanSpecLoadouts v0.1.2](https://github.com/jshields-ca/TitanSpecsLoadouts/releases/tag/v0.1.2) in [jshields-ca/TitanSpecsLoadouts](https://github.com/jshields-ca/TitanSpecsLoadouts)
+3. 🎉 Merged PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+4. 💪 Opened PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+5. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+6. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+7. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+8. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+9. 💪 Opened PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
 10. 🗣 Commented on [#1094](https://github.com/wizarrrr/wizarr/issues/1094#issuecomment-4283967802) in [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr)
 <!--END_SECTION:activity-->
 
