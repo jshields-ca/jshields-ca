@@ -1,4 +1,4 @@
-# <img src="https://scootr.ca/files/scootr-ca.png" height="40" width="40" /> Hi, I'm jshields-ca (or scootr, if you wish)
+# Hi, I'm jshields-ca (or scootr, if you wish)
 
 I am a creator and technologist dedicated to building compelling digital experiences—from the narratives of sports to the code that powers our digital world. By day, I navigate public communications for the provincial government; by night, I’m an aspiring Full-Stack Engineer architecting a private, open-source ecosystem. Whether I'm in a deep ADHD hyper-focus, or just exploring something new, I thrive on deconstructing complex systems and rebuilding them to be more engaging.
 
@@ -125,8 +125,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ## 🌐 Personal Projects
 - 📃 Resume/CV: [jeremyshields.ca](https://jeremyshields.ca)  
 - 🔗 Projects Hub: [scootr.ca](https://scootr.ca)  
-- 🎙️ ScootTalks Podcast: [scootr.ca/scoottalks](https://scootr.ca/scoottalks)
-- 📹 Twitch Streaming: [twitch.tv/scootr](https://twitch.tv/scootr)
+- 🎙️ ScootTalks Podcast: [scootr.ca/podcast](https://scootr.ca/podcast)
 
 ## 💬 Track Me Down
 
@@ -135,5 +134,4 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 ---
 
-> “Always learning, always building. Canadian dev & digital communicator.”
 
