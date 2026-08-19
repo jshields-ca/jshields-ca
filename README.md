@@ -14,34 +14,34 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 **🐱 My GitHub Data** 
 
-> 📦 93.3 kB Used in GitHub's Storage 
+> 📦 93.1 kB Used in GitHub's Storage 
  > 
-> 🏆 604 Contributions in the Year 2026
+> 🏆 621 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-🌆 Daytime                1081 commits        ████████████░░░░░░░░░░░░░   48.69 % 
-🌃 Evening                882 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+🌞 Morning                185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+🌆 Daytime                878 commits         █████████████░░░░░░░░░░░░   50.46 % 
+🌃 Evening                661 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   426 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Tuesday                  264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Wednesday                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Thursday                 470 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Friday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Saturday                 316 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Sunday                   215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Monday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Thursday                 355 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Saturday                 266 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Sunday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
 
@@ -49,54 +49,54 @@ Sunday                   215 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 53 mins       ███████████████░░░░░░░░░░   59.43 % 
-Python                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+YAML                     2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
+Python                   1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+JSON                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Astro                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-Firefox                  2 hrs 38 mins       ██████████████░░░░░░░░░░░   54.55 % 
-VS Code                  1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   35.10 % 
-Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Firefox                  3 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+Claude Code              1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+VS Code                  1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
 
 🐱‍💻 Projects: 
-scootr                   1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   34.52 % 
-audiobookshelf-exporter  54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-TitanSpecsLoadouts       45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-simkl-csv-converters     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-panel                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+scootr-astro             2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+scootr                   1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+audiobookshelf-exporter  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+TitanSpecsLoadouts       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+simkl-csv-converters     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       ████████████████░░░░░░░░░   65.91 % 
-Linux                    1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
+Windows                  5 hrs 7 mins        ███████████████████░░░░░░   75.59 % 
+Linux                    1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (11.15%)
+⏱ AI Coding Time: 1 hr 47 mins (26.39%)
 
-✍️ 75 lines written by AI, 298 lines written by hand (20.11% AI-written)
+✍️ 404 lines written by AI, 298 lines written by hand (57.55% AI-written)
 
-🔤 72,707 Input Tokens, 20,750 Output Tokens
+🔤 366,951 Input Tokens, 82,225 Output Tokens
 
-💵 $1.27 Estimated AI Cost This Week
+💵 $8.54 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 16 AI Prompts
 
-Sonnet                   75 lines            █████████████████████████   100.00 % 
+Sonnet                   428 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.11% of written lines came from AI
-📝 Concise Prompter — average 128 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 80.96% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.55% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 42.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 19:08:34 UTC
+ Last Updated on 19/08/2026 19:03:34 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
