@@ -101,11 +101,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **9,434** Karma Points           
-🌸  Completed **9** tasks today           
-✅  Completed **793** tasks so far           
-🔥  Current streak: **18 days**           
-⏳  Longest streak is **18** days
+🏆  **9,504** Karma Points           
+🌸  Completed **5** tasks today           
+✅  Completed **799** tasks so far           
+🔥  Current streak: **19 days**           
+⏳  Longest streak is **19** days
 <!-- TODO-IST:END -->
 
 ## Latest GitHub Activity
