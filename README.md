@@ -110,16 +110,16 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 ## Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#253](https://github.com/Drakonis96/plexytrack/issues/253#issuecomment-5382114893) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
-2. ❗ Opened issue [#253](https://github.com/Drakonis96/plexytrack/issues/253) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
-3. ❗ Opened issue [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
-4. 🚀 Published release [TitanSpecLoadouts v0.1.2](https://github.com/jshields-ca/TitanSpecsLoadouts/releases/tag/v0.1.2) in [jshields-ca/TitanSpecsLoadouts](https://github.com/jshields-ca/TitanSpecsLoadouts)
-5. 🎉 Merged PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-6. 💪 Opened PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-7. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-8. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-9. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-10. ℹ️ Assigned PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+1. 🗣 Commented on [#253](https://github.com/Drakonis96/plexytrack/issues/253#issuecomment-5382454728) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
+2. 🗣 Commented on [#253](https://github.com/Drakonis96/plexytrack/issues/253#issuecomment-5382114893) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
+3. ❗ Opened issue [#253](https://github.com/Drakonis96/plexytrack/issues/253) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
+4. ❗ Opened issue [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
+5. 🚀 Published release [TitanSpecLoadouts v0.1.2](https://github.com/jshields-ca/TitanSpecsLoadouts/releases/tag/v0.1.2) in [jshields-ca/TitanSpecsLoadouts](https://github.com/jshields-ca/TitanSpecsLoadouts)
+6. 🎉 Merged PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+7. 💪 Opened PR [#76](https://github.com/jshields-ca/effuselabs/pull/76) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+8. 🎉 Merged PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+9. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+10. 🎉 Merged PR [#74](https://github.com/jshields-ca/effuselabs/pull/74) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
 <!--END_SECTION:activity-->
 
 ## 🌐 Personal Projects
