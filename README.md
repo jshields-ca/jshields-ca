@@ -16,7 +16,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 > 📦 99.0 kB Used in GitHub's Storage 
  > 
-> 🏆 690 Contributions in the Year 2026
+> 🏆 692 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,21 +27,21 @@ I am a creator and technologist dedicated to building compelling digital experie
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-🌆 Daytime                1131 commits        ████████████░░░░░░░░░░░░░   47.52 % 
-🌃 Evening                967 commits         ██████████░░░░░░░░░░░░░░░   40.63 % 
-🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+🌞 Morning                260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+🌆 Daytime                1131 commits        ████████████░░░░░░░░░░░░░   47.46 % 
+🌃 Evening                969 commits         ██████████░░░░░░░░░░░░░░░   40.66 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   435 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Tuesday                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Wednesday                323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 475 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Friday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Saturday                 339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Monday                   435 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Tuesday                  319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Wednesday                323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Thursday                 476 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Friday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Saturday                 339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Sunday                   217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 ```
 
 
@@ -49,35 +49,35 @@ Sunday                   217 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Python                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-TypeScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Other                    1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+TypeScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+HTML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Bash                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 
 🔥 Editors: 
-Firefox                  5 hrs 10 mins       ███████████████░░░░░░░░░░   61.67 % 
-Claude Code              2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Firefox                  4 hrs 16 mins       ████████████████░░░░░░░░░   62.32 % 
+Claude Code              2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.21 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🐱‍💻 Projects: 
-scootrflix-docs          2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-scrutiny                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-scootr                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-bookstack-mcp            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-romm                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+scootrflix-docs          2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
+scrutiny                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+bookstack-mcp            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+flix-email-templates     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+simkl-csv-converters     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Windows                  7 hrs 34 mins       ███████████████████████░░   90.17 % 
-Linux                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Windows                  6 hrs 39 mins       ████████████████████████░   97.24 % 
+Linux                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (27.48%)
+⏱ AI Coding Time: 2 hrs 18 mins (33.67%)
 
-✍️ 261 lines written by AI, 478 lines written by hand (35.32% AI-written)
+✍️ 261 lines written by AI, 331 lines written by hand (44.09% AI-written)
 
 🔤 564,098 Input Tokens, 98,526 Output Tokens
 
@@ -89,14 +89,14 @@ Sonnet                   282 lines           ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.32% of written lines came from AI
+⚖️ Balanced with AI — 44.09% of written lines came from AI
 📝 Concise Prompter — average 351 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 67.06% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 02:16:50 UTC
+ Last Updated on 29/08/2026 01:51:34 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
