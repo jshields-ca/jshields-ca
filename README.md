@@ -10,74 +10,42 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Wakatime Metrics
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2020%20mins-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 99.1 kB Used in GitHub's Storage 
- > 
-> 🏆 705 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-🌆 Daytime                929 commits         █████████████░░░░░░░░░░░░   50.77 % 
-🌃 Evening                696 commits         ██████████░░░░░░░░░░░░░░░   38.03 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Wednesday                263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 361 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Friday                   195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Saturday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Sunday                   164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
-```text
 💬 Programming Languages: 
-Bash                     53 mins             █████████████░░░░░░░░░░░░   50.13 % 
-YAML                     42 mins             ██████████░░░░░░░░░░░░░░░   39.42 % 
-SSH Config               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 41 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="180" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">49.98%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Bash</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">50 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="56" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">15.67%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">38 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="43" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">12.05%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">27 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="31" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">8.55%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">JavaScript</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="18" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.00%</text></svg>
 
 🔥 Editors: 
-Firefox                  1 hr 40 mins        ███████████████████████░░   93.23 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-
-🐱‍💻 Projects: 
-bookstack-mcp            59 mins             ██████████████░░░░░░░░░░░   55.68 % 
-feral-toaster            15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-scootr                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Cell                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-plexytrack               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Claude Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 47 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="186" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">51.67%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Firefox</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 31 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="169" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">46.92%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">4 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="5" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">1.41%</text></svg>
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        ███████████████████████░░   93.23 % 
-Linux                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-```
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Windows</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 20 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="357" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">99.24%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Linux</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="3" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.76%</text></svg>
+
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 47 mins (51.68%)
+
+✍️ 851 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,790,155 Input Tokens, 274,740 Output Tokens
+
+💵 $32.88 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 44 AI Prompts
+
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Sonnet</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">881 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 22:59:50 UTC
+ Last Updated on 01/09/2026 20:30:46 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
