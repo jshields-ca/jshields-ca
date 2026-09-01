@@ -13,7 +13,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 - 🔗 Projects Hub: [scootr.ca](https://scootr.ca)  
 
 ## Latest GitHub Activity
-![GitHub Stats](https://ghstats.dev/api/card?username=jshields-ca)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12#issuecomment-5403185418) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
