@@ -4,7 +4,8 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ### **The Current Stacks:**
 - 🚀 **Professional:** Public and Internal Communications for the Provincial Government.
-- 🎓 **Education:** Full-Stack Engineering (Codecademy) & Home Lab Administration (Ubuntu/Unraid).
+- 🏫 **Education:** Project Management, Digital Accessibility, Self-taught Front-End Developer
+- 🎓 **Learning:** Full-Stack Engineering (Codecademy), DevOps & Home Lab Administration (Ubuntu/Unraid).
 - 🌍 **Passions:** Canadian History, Geopolitics, and a deep Sports rotation (NHL, CPL, EPL, MLB, NFL, NBA).
 - 🎮 **Leisure:** SteamDeck gaming ([My Current Backlog](https://infinitebacklog.net/users/scootr)) and curated Podcasts/Music.
 
