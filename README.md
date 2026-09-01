@@ -90,6 +90,9 @@ No AI Coding Activity Tracked This Week
 <!-- TODO-IST:END -->
 
 ## Latest GitHub Activity
+
+![GitHub Stats](https://ghstats.dev/api/card?username=jshields-ca)
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12#issuecomment-5403185418) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
 2. 🗣 Commented on [#253](https://github.com/Drakonis96/plexytrack/issues/253#issuecomment-5382454728) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
