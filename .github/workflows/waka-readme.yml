@@ -25,10 +25,4 @@ jobs:
           SHOW_COMMIT: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_SHORT_INFO: False
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
           SHOW_PROJECTS: False
