@@ -12,15 +12,23 @@ I am a creator and technologist dedicated to building compelling digital experie
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
+```text
 💬 Programming Languages: 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 41 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="180" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">49.98%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Bash</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">50 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="56" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">15.67%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">38 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="43" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">12.05%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">27 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="31" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">8.55%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">JavaScript</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">16 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="18" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.00%</text></svg>
+Markdown                 2 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.98 % 
+Bash                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+YAML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Claude Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 47 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="186" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">51.67%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Firefox</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 31 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="169" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">46.92%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">4 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="5" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">1.41%</text></svg>
+Claude Code              2 hrs 47 mins       █████████████░░░░░░░░░░░░   51.67 % 
+Firefox                  2 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.92 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Windows</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 20 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="357" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">99.24%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Linux</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="3" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">0.76%</text></svg>
-
+Windows                  5 hrs 20 mins       █████████████████████████   99.24 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
 
 🤖 **AI Coding This Week** 
 
@@ -35,7 +43,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 🧠 7 AI Sessions, 44 AI Prompts
 
-<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Sonnet</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">881 lines</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+Sonnet                   881 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -45,7 +53,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 ```
 
 
- Last Updated on 01/09/2026 20:30:46 UTC
+ Last Updated on 01/09/2026 20:33:29 UTC
 <!--END_SECTION:waka-->
 
 ## Todoist Stats
