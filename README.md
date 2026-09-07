@@ -44,26 +44,26 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 48 mins       █████████████████░░░░░░░░   69.22 % 
-YAML                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Astro                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown                 2 hrs 48 mins       ████████████████████░░░░░   81.44 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Astro                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Firefox                  2 hrs 55 mins       ██████████████████░░░░░░░   72.07 % 
-Claude Code              1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Firefox                  2 hrs 18 mins       █████████████████░░░░░░░░   67.14 % 
+Claude Code              1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   99.52 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Windows                  3 hrs 25 mins       █████████████████████████   99.44 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (26.61%)
+⏱ AI Coding Time: 1 hr 4 mins (31.31%)
 
 ✍️ 407 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -83,7 +83,7 @@ Sonnet                   425 lines           ███████████�
 ```
 
 
- Last Updated on 06/09/2026 20:35:38 UTC
+ Last Updated on 07/09/2026 21:38:44 UTC
 <!--END_SECTION:waka-->
 
 ## 💬 Track Me Down
