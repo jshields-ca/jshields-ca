@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-2. 💪 Opened PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-3. ❗ Opened issue [#257](https://github.com/Drakonis96/plexytrack/issues/257) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
-4. 🗣 Commented on [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12#issuecomment-5403185418) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
-5. 🗣 Commented on [#253](https://github.com/Drakonis96/plexytrack/issues/253#issuecomment-5382454728) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
-6. 🗣 Commented on [#253](https://github.com/Drakonis96/plexytrack/issues/253#issuecomment-5382114893) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
-7. ❗ Opened issue [#253](https://github.com/Drakonis96/plexytrack/issues/253) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
-8. ❗ Opened issue [#12](https://github.com/operationETH/audiobookshelf-exporter/issues/12) in [operationETH/audiobookshelf-exporter](https://github.com/operationETH/audiobookshelf-exporter)
-9. 🚀 Published release [TitanSpecLoadouts v0.1.2](https://github.com/jshields-ca/TitanSpecsLoadouts/releases/tag/v0.1.2) in [jshields-ca/TitanSpecsLoadouts](https://github.com/jshields-ca/TitanSpecsLoadouts)
-10. 💪 Opened PR [#75](https://github.com/jshields-ca/effuselabs/pull/75) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+1. 🎉 Merged PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+2. 🎉 Merged PR [#78](https://github.com/jshields-ca/effuselabs/pull/78) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+3. 💪 Opened PR [#78](https://github.com/jshields-ca/effuselabs/pull/78) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+4. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+5. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+6. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+7. 💪 Opened PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+8. 🎉 Merged PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+9. 💪 Opened PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+10. ❗ Opened issue [#257](https://github.com/Drakonis96/plexytrack/issues/257) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
