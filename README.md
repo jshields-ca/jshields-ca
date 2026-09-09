@@ -44,47 +44,47 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 16 mins       ████████████████████████░   95.63 % 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Astro                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Markdown                 6 hrs 13 mins       ████████████████████░░░░░   81.04 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Astro                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 7 mins        █████████████████░░░░░░░░   69.98 % 
-Firefox                  1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Claude Code              7 hrs 31 mins       ████████████████████████░   97.99 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   99.57 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (70.17%)
+⏱ AI Coding Time: 7 hrs 36 mins (99.01%)
 
-✍️ 102 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 585 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,015,224 Input Tokens, 136,569 Output Tokens
+🔤 4,634,756 Input Tokens, 471,137 Output Tokens
 
-💵 $78.97 Estimated AI Cost This Week
+💵 $166.01 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 9 AI Sessions, 46 AI Prompts
 
-Sonnet                   25 lines            █████████████████████████   100.00 % 
+Sonnet                   656 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,565 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.42% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,324 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 21:17:37 UTC
+ Last Updated on 09/09/2026 21:03:00 UTC
 <!--END_SECTION:waka-->
 
 ## 💬 Track Me Down
