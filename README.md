@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-2. 🎉 Merged PR [#78](https://github.com/jshields-ca/effuselabs/pull/78) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-3. 💪 Opened PR [#78](https://github.com/jshields-ca/effuselabs/pull/78) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-4. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+1. 💪 Opened PR [#6](https://github.com/effuselabs/lumina/pull/6) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+2. 🎉 Merged PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+3. 🎉 Merged PR [#78](https://github.com/jshields-ca/effuselabs/pull/78) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+4. 💪 Opened PR [#78](https://github.com/jshields-ca/effuselabs/pull/78) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
 5. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
 6. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-7. 💪 Opened PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-8. 🎉 Merged PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-9. 💪 Opened PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-10. ❗ Opened issue [#257](https://github.com/Drakonis96/plexytrack/issues/257) in [Drakonis96/plexytrack](https://github.com/Drakonis96/plexytrack)
+7. ℹ️ Labeled PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+8. 💪 Opened PR [#77](https://github.com/jshields-ca/effuselabs/pull/77) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+9. 🎉 Merged PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+10. 💪 Opened PR [#5](https://github.com/effuselabs/lumina/pull/5) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
