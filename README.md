@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/jshields-ca/Docubil/pull/19) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
-2. 💪 Opened PR [#19](https://github.com/jshields-ca/Docubil/pull/19) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
-3. 🎉 Merged PR [#122](https://github.com/jshields-ca/LatestArr/pull/122) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-4. 💪 Opened PR [#122](https://github.com/jshields-ca/LatestArr/pull/122) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-5. 🎉 Merged PR [#3](https://github.com/jshields-ca/Docubil/pull/3) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
-6. 💪 Opened PR [#3](https://github.com/jshields-ca/Docubil/pull/3) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
-7. 🎉 Merged PR [#121](https://github.com/jshields-ca/LatestArr/pull/121) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-8. 💪 Opened PR [#121](https://github.com/jshields-ca/LatestArr/pull/121) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-9. 🎉 Merged PR [#119](https://github.com/jshields-ca/LatestArr/pull/119) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-10. 🎉 Merged PR [#118](https://github.com/jshields-ca/LatestArr/pull/118) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+1. 🗣 Commented on [#9](https://github.com/jshields-ca/Docubil/pull/9#issuecomment-5753821457) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+2. 💪 Opened PR [#28](https://github.com/jshields-ca/Docubil/pull/28) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+3. 🗣 Commented on [#15](https://github.com/jshields-ca/Docubil/pull/15#issuecomment-5753788407) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+4. 🗣 Commented on [#11](https://github.com/jshields-ca/Docubil/pull/11#issuecomment-5753786238) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+5. 🗣 Commented on [#22](https://github.com/jshields-ca/Docubil/pull/22#issuecomment-5753781641) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+6. 🗣 Commented on [#23](https://github.com/jshields-ca/Docubil/pull/23#issuecomment-5753781338) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+7. 🗣 Commented on [#20](https://github.com/jshields-ca/Docubil/pull/20#issuecomment-5753780945) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+8. 🗣 Commented on [#5](https://github.com/jshields-ca/Docubil/pull/5#issuecomment-5753752502) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+9. 🎉 Merged PR [#27](https://github.com/jshields-ca/Docubil/pull/27) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+10. 💪 Opened PR [#27](https://github.com/jshields-ca/Docubil/pull/27) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
