@@ -44,45 +44,39 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ```text
 💬 Programming Languages: 
-HTML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Markdown                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-MDX                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-TypeScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-YAML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 23 mins        ███████████████░░░░░░░░░░   60.23 % 
-VS Code                  55 mins             ██████████░░░░░░░░░░░░░░░   39.77 % 
+Claude Code              1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        ███████████████████████░░   91.88 % 
-Linux                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (81.86%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 5,430 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 541,259 Input Tokens, 121,213 Output Tokens
+🔤 53,333 Input Tokens, 10,223 Output Tokens
 
-💵 $14.59 Estimated AI Cost This Week
+💵 $7.42 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 25 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
-Sonnet                   5,445 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,576 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 22:05:21 UTC
+ Last Updated on 22/09/2026 21:32:02 UTC
 <!--END_SECTION:waka-->
 
 ## 💬 Track Me Down
