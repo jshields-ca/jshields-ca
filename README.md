@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/jshields-ca/LatestArr/pull/165) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-2. ℹ️ Labeled issue [#164](https://github.com/jshields-ca/LatestArr/issues/164) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-3. ❗ Opened issue [#164](https://github.com/jshields-ca/LatestArr/issues/164) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-4. 🎉 Merged PR [#161](https://github.com/jshields-ca/LatestArr/pull/161) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-5. 🔒 Closed issue [#160](https://github.com/jshields-ca/LatestArr/issues/160) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-6. ℹ️ Labeled issue [#163](https://github.com/jshields-ca/LatestArr/issues/163) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-7. ❗ Opened issue [#163](https://github.com/jshields-ca/LatestArr/issues/163) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-8. ℹ️ Labeled issue [#162](https://github.com/jshields-ca/LatestArr/issues/162) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-9. ❗ Opened issue [#162](https://github.com/jshields-ca/LatestArr/issues/162) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-10. 🎉 Merged PR [#159](https://github.com/jshields-ca/LatestArr/pull/159) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+1. 🎉 Merged PR [#171](https://github.com/jshields-ca/LatestArr/pull/171) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+2. 🔒 Closed issue [#167](https://github.com/jshields-ca/LatestArr/issues/167) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+3. 🎉 Merged PR [#173](https://github.com/jshields-ca/LatestArr/pull/173) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+4. 🔒 Closed issue [#163](https://github.com/jshields-ca/LatestArr/issues/163) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+5. 🎉 Merged PR [#172](https://github.com/jshields-ca/LatestArr/pull/172) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+6. 💪 Opened PR [#173](https://github.com/jshields-ca/LatestArr/pull/173) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+7. 💪 Opened PR [#172](https://github.com/jshields-ca/LatestArr/pull/172) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+8. 🎉 Merged PR [#170](https://github.com/jshields-ca/LatestArr/pull/170) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+9. 🔒 Closed issue [#164](https://github.com/jshields-ca/LatestArr/issues/164) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+10. 🎉 Merged PR [#169](https://github.com/jshields-ca/LatestArr/pull/169) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
