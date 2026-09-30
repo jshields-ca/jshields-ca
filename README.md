@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/effuselabs/lumina/pull/41) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-2. 💪 Opened PR [#41](https://github.com/effuselabs/lumina/pull/41) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-3. 🎉 Merged PR [#40](https://github.com/effuselabs/lumina/pull/40) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-4. 💪 Opened PR [#40](https://github.com/effuselabs/lumina/pull/40) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-5. 🎉 Merged PR [#39](https://github.com/effuselabs/lumina/pull/39) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-6. 💪 Opened PR [#39](https://github.com/effuselabs/lumina/pull/39) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-7. 🎉 Merged PR [#38](https://github.com/effuselabs/lumina/pull/38) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-8. 💪 Opened PR [#38](https://github.com/effuselabs/lumina/pull/38) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-9. 🎉 Merged PR [#37](https://github.com/effuselabs/lumina/pull/37) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-10. 💪 Opened PR [#37](https://github.com/effuselabs/lumina/pull/37) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+1. 🎉 Merged PR [#43](https://github.com/effuselabs/lumina/pull/43) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+2. 💪 Opened PR [#43](https://github.com/effuselabs/lumina/pull/43) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+3. 🎉 Merged PR [#42](https://github.com/effuselabs/lumina/pull/42) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+4. 💪 Opened PR [#42](https://github.com/effuselabs/lumina/pull/42) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+5. 🎉 Merged PR [#41](https://github.com/effuselabs/lumina/pull/41) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+6. 💪 Opened PR [#41](https://github.com/effuselabs/lumina/pull/41) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+7. 🎉 Merged PR [#40](https://github.com/effuselabs/lumina/pull/40) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+8. 💪 Opened PR [#40](https://github.com/effuselabs/lumina/pull/40) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+9. 🎉 Merged PR [#39](https://github.com/effuselabs/lumina/pull/39) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+10. 💪 Opened PR [#39](https://github.com/effuselabs/lumina/pull/39) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
