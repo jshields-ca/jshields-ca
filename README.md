@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/effuselabs/lumina/pull/53) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-2. 💪 Opened PR [#53](https://github.com/effuselabs/lumina/pull/53) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-3. 🎉 Merged PR [#52](https://github.com/effuselabs/lumina/pull/52) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-4. 💪 Opened PR [#52](https://github.com/effuselabs/lumina/pull/52) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-5. 🎉 Merged PR [#51](https://github.com/effuselabs/lumina/pull/51) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-6. 💪 Opened PR [#51](https://github.com/effuselabs/lumina/pull/51) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-7. 🎉 Merged PR [#50](https://github.com/effuselabs/lumina/pull/50) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-8. 💪 Opened PR [#50](https://github.com/effuselabs/lumina/pull/50) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-9. 🎉 Merged PR [#49](https://github.com/effuselabs/lumina/pull/49) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-10. 💪 Opened PR [#49](https://github.com/effuselabs/lumina/pull/49) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+1. 💪 Opened PR [#277](https://github.com/jshields-ca/LatestArr/pull/277) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+2. 💪 Opened PR [#276](https://github.com/jshields-ca/LatestArr/pull/276) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+3. 🎉 Merged PR [#274](https://github.com/jshields-ca/LatestArr/pull/274) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+4. 🔒 Closed issue [#257](https://github.com/jshields-ca/LatestArr/issues/257) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+5. 💪 Opened PR [#274](https://github.com/jshields-ca/LatestArr/pull/274) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+6. 🎉 Merged PR [#273](https://github.com/jshields-ca/LatestArr/pull/273) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+7. 💪 Opened PR [#273](https://github.com/jshields-ca/LatestArr/pull/273) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+8. 🎉 Merged PR [#53](https://github.com/effuselabs/lumina/pull/53) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+9. 💪 Opened PR [#53](https://github.com/effuselabs/lumina/pull/53) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+10. 🎉 Merged PR [#52](https://github.com/effuselabs/lumina/pull/52) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
