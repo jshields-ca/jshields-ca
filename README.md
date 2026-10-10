@@ -44,44 +44,45 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ```text
 💬 Programming Languages: 
-HTML                     32 mins             ██████████████████░░░░░░░   72.66 % 
-MDX                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+HTML                     32 mins             ███████████████░░░░░░░░░░   58.23 % 
+Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+MDX                      10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████░░░░░░░░░░░░   53.86 % 
-Claude Code              20 mins             ████████████░░░░░░░░░░░░░   46.14 % 
+Claude Code              31 mins             ██████████████░░░░░░░░░░░   56.84 % 
+VS Code                  23 mins             ███████████░░░░░░░░░░░░░░   43.16 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (60.63%)
+⏱ AI Coding Time: 38 mins (68.45%)
 
-✍️ 151 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 166 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 211,523 Input Tokens, 33,155 Output Tokens
+🔤 722,967 Input Tokens, 38,759 Output Tokens
 
-💵 $3.15 Estimated AI Cost This Week
+💵 $6.52 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 15 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
-Opus                     151 lines           █████████████████████████   100.00 % 
+Opus                     166 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 359 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 339 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 22:46:55 UTC
+ Last Updated on 10/10/2026 21:54:43 UTC
 <!--END_SECTION:waka-->
 
 ## 💬 Track Me Down
