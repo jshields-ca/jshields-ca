@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/jshields-ca/effuselabs/pull/81) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-2. 🗣 Commented on [#381](https://github.com/jshields-ca/LatestArr/issues/381#issuecomment-6238511137) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-3. 🎉 Merged PR [#382](https://github.com/jshields-ca/LatestArr/pull/382) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-4. 🔒 Closed issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-5. 💪 Opened PR [#382](https://github.com/jshields-ca/LatestArr/pull/382) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-6. ℹ️ Unlabeled issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+1. 🎉 Merged PR [#81](https://github.com/jshields-ca/effuselabs/pull/81) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+2. 💪 Opened PR [#81](https://github.com/jshields-ca/effuselabs/pull/81) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
+3. 🗣 Commented on [#381](https://github.com/jshields-ca/LatestArr/issues/381#issuecomment-6238511137) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+4. 🎉 Merged PR [#382](https://github.com/jshields-ca/LatestArr/pull/382) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+5. 🔒 Closed issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+6. 💪 Opened PR [#382](https://github.com/jshields-ca/LatestArr/pull/382) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
 7. ℹ️ Unlabeled issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-8. ℹ️ Labeled issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-9. 🗣 Commented on [#362](https://github.com/jshields-ca/LatestArr/issues/362#issuecomment-6238328738) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-10. 🗣 Commented on [#359](https://github.com/jshields-ca/LatestArr/issues/359#issuecomment-6238328471) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+8. ℹ️ Unlabeled issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+9. ℹ️ Labeled issue [#381](https://github.com/jshields-ca/LatestArr/issues/381) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+10. 🗣 Commented on [#362](https://github.com/jshields-ca/LatestArr/issues/362#issuecomment-6238328738) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
