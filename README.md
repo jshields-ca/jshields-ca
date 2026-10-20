@@ -38,31 +38,6 @@ I am a creator and technologist dedicated to building compelling digital experie
 ⏳  Longest streak is **23** days
 <!-- TODO-IST:END -->
 
-## Wakatime Metrics
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 20/10/2026 21:46:18 UTC
-<!--END_SECTION:waka-->
-
 ## 💬 Track Me Down
 
 [![Static Badge](https://img.shields.io/badge/general_email-hello%40jeremyshields.ca-2f2f2f?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Ahello%40jeremyshields.ca)](mailto:hello@jeremyshields.ca) [![Static Badge](https://img.shields.io/badge/dev_email-jeremy%40scootr.ca-0e643d?style=for-the-badge&logo=maildotru&logoColor=white&link=mailto%3Ajeremy%40scootr.ca)](mailto:jeremy@scootr.ca)   
