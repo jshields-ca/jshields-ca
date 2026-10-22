@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/jshields-ca/LatestArr/issues/300#issuecomment-6244696903) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-2. ℹ️ Labeled issue [#384](https://github.com/jshields-ca/LatestArr/issues/384) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-3. ℹ️ Labeled issue [#384](https://github.com/jshields-ca/LatestArr/issues/384) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-4. ❗ Opened issue [#384](https://github.com/jshields-ca/LatestArr/issues/384) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-5. ℹ️ Labeled issue [#383](https://github.com/jshields-ca/LatestArr/issues/383) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-6. ❗ Opened issue [#383](https://github.com/jshields-ca/LatestArr/issues/383) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-7. 🎉 Merged PR [#81](https://github.com/jshields-ca/effuselabs/pull/81) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-8. 💪 Opened PR [#81](https://github.com/jshields-ca/effuselabs/pull/81) in [jshields-ca/effuselabs](https://github.com/jshields-ca/effuselabs)
-9. 🗣 Commented on [#381](https://github.com/jshields-ca/LatestArr/issues/381#issuecomment-6238511137) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-10. 🎉 Merged PR [#382](https://github.com/jshields-ca/LatestArr/pull/382) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+1. 🗣 Commented on [#64](https://github.com/jshields-ca/Docubil/pull/64#issuecomment-6330631740) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+2. 🗣 Commented on [#61](https://github.com/jshields-ca/Docubil/pull/61#issuecomment-6330632177) in [jshields-ca/Docubil](https://github.com/jshields-ca/Docubil)
+3. 🗣 Commented on [#112](https://github.com/effuselabs/lumina/issues/112#issuecomment-6330779575) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+4. 🗣 Commented on [#115](https://github.com/effuselabs/lumina/issues/115#issuecomment-6330642742) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+5. ℹ️ Labeled PR [#119](https://github.com/effuselabs/lumina/pull/119) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+6. 💪 Opened PR [#119](https://github.com/effuselabs/lumina/pull/119) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+7. ℹ️ Labeled issue [#118](https://github.com/effuselabs/lumina/issues/118) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+8. ❗ Opened issue [#117](https://github.com/effuselabs/lumina/issues/117) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+9. ❗ Opened issue [#118](https://github.com/effuselabs/lumina/issues/118) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+10. ℹ️ Labeled issue [#117](https://github.com/effuselabs/lumina/issues/117) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
