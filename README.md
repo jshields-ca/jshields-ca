@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/effuselabs/lumina/pull/132) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-2. 💪 Opened PR [#132](https://github.com/effuselabs/lumina/pull/132) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-3. 🎉 Merged PR [#131](https://github.com/effuselabs/lumina/pull/131) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-4. 🔒 Closed issue [#128](https://github.com/effuselabs/lumina/issues/128) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-5. 🗣 Commented on [#72](https://github.com/effuselabs/lumina/issues/72#issuecomment-6380491534) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-6. 💪 Opened PR [#131](https://github.com/effuselabs/lumina/pull/131) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-7. 🎉 Merged PR [#129](https://github.com/effuselabs/lumina/pull/129) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-8. 🔒 Closed issue [#78](https://github.com/effuselabs/lumina/issues/78) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-9. 🔒 Closed issue [#130](https://github.com/effuselabs/lumina/issues/130) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-10. ℹ️ Labeled issue [#130](https://github.com/effuselabs/lumina/issues/130) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+1. 🎉 Merged PR [#137](https://github.com/effuselabs/lumina/pull/137) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+2. 🔒 Closed issue [#136](https://github.com/effuselabs/lumina/issues/136) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+3. 💪 Opened PR [#137](https://github.com/effuselabs/lumina/pull/137) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+4. 🎉 Merged PR [#135](https://github.com/effuselabs/lumina/pull/135) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+5. 🔒 Closed issue [#134](https://github.com/effuselabs/lumina/issues/134) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+6. ℹ️ Labeled issue [#136](https://github.com/effuselabs/lumina/issues/136) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+7. ❗ Opened issue [#136](https://github.com/effuselabs/lumina/issues/136) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+8. 💪 Opened PR [#135](https://github.com/effuselabs/lumina/pull/135) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+9. 🎉 Merged PR [#133](https://github.com/effuselabs/lumina/pull/133) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+10. 🔒 Closed issue [#72](https://github.com/effuselabs/lumina/issues/72) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
