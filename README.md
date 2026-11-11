@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1622](https://github.com/bookorbit/bookorbit/issues/1622#issuecomment-6696441919) in [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit)
-2. 🎉 Merged PR [#421](https://github.com/jshields-ca/LatestArr/pull/421) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-3. 💪 Opened PR [#421](https://github.com/jshields-ca/LatestArr/pull/421) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-4. 🗣 Commented on [#332](https://github.com/jshields-ca/LatestArr/issues/332#issuecomment-6510540250) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-5. 🗣 Commented on [#332](https://github.com/jshields-ca/LatestArr/issues/332#issuecomment-6510445691) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-6. 🎉 Merged PR [#174](https://github.com/effuselabs/lumina/pull/174) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-7. 🔒 Closed issue [#173](https://github.com/effuselabs/lumina/issues/173) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-8. 💪 Opened PR [#174](https://github.com/effuselabs/lumina/pull/174) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-9. ℹ️ Labeled issue [#173](https://github.com/effuselabs/lumina/issues/173) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
-10. ℹ️ Labeled issue [#173](https://github.com/effuselabs/lumina/issues/173) in [effuselabs/lumina](https://github.com/effuselabs/lumina)
+1. 🗣 Commented on [#332](https://github.com/jshields-ca/LatestArr/issues/332#issuecomment-6786554878) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+2. ℹ️ Reopened PR [#418](https://github.com/jshields-ca/LatestArr/pull/418) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+3. ❌ Closed PR [#418](https://github.com/jshields-ca/LatestArr/pull/418) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+4. 🎉 Merged PR [#422](https://github.com/jshields-ca/LatestArr/pull/422) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+5. 💪 Opened PR [#422](https://github.com/jshields-ca/LatestArr/pull/422) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+6. 🗣 Commented on [#1622](https://github.com/bookorbit/bookorbit/issues/1622#issuecomment-6696441919) in [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit)
+7. 🎉 Merged PR [#421](https://github.com/jshields-ca/LatestArr/pull/421) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+8. 💪 Opened PR [#421](https://github.com/jshields-ca/LatestArr/pull/421) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+9. 🗣 Commented on [#332](https://github.com/jshields-ca/LatestArr/issues/332#issuecomment-6510540250) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+10. 🗣 Commented on [#332](https://github.com/jshields-ca/LatestArr/issues/332#issuecomment-6510445691) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
