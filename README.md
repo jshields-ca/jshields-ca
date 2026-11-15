@@ -17,16 +17,16 @@ I am a creator and technologist dedicated to building compelling digital experie
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=jshields-ca&show_ring=false&hide_title=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#451](https://github.com/jshields-ca/LatestArr/pull/451) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-2. 💪 Opened PR [#451](https://github.com/jshields-ca/LatestArr/pull/451) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-3. 🔒 Closed issue [#383](https://github.com/jshields-ca/LatestArr/issues/383) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-4. 🎉 Merged PR [#448](https://github.com/jshields-ca/LatestArr/pull/448) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-5. 🗣 Commented on [#2](https://github.com/jshields-ca/PerennialUI/pull/2#issuecomment-6884430457) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
-6. 🗣 Commented on [#2](https://github.com/jshields-ca/PerennialUI/pull/2#issuecomment-6884426798) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
-7. 🎉 Merged PR [#3](https://github.com/jshields-ca/PerennialUI/pull/3) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
-8. 💪 Opened PR [#3](https://github.com/jshields-ca/PerennialUI/pull/3) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
-9. 💪 Opened PR [#448](https://github.com/jshields-ca/LatestArr/pull/448) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
-10. 🔒 Closed issue [#402](https://github.com/jshields-ca/LatestArr/issues/402) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+1. 🎉 Merged PR [#2](https://github.com/jshields-ca/PerennialUI/pull/2) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
+2. 🎉 Merged PR [#451](https://github.com/jshields-ca/LatestArr/pull/451) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+3. 💪 Opened PR [#451](https://github.com/jshields-ca/LatestArr/pull/451) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+4. 🔒 Closed issue [#383](https://github.com/jshields-ca/LatestArr/issues/383) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+5. 🎉 Merged PR [#448](https://github.com/jshields-ca/LatestArr/pull/448) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
+6. 🗣 Commented on [#2](https://github.com/jshields-ca/PerennialUI/pull/2#issuecomment-6884430457) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
+7. 🗣 Commented on [#2](https://github.com/jshields-ca/PerennialUI/pull/2#issuecomment-6884426798) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
+8. 🎉 Merged PR [#3](https://github.com/jshields-ca/PerennialUI/pull/3) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
+9. 💪 Opened PR [#3](https://github.com/jshields-ca/PerennialUI/pull/3) in [jshields-ca/PerennialUI](https://github.com/jshields-ca/PerennialUI)
+10. 💪 Opened PR [#448](https://github.com/jshields-ca/LatestArr/pull/448) in [jshields-ca/LatestArr](https://github.com/jshields-ca/LatestArr)
 <!--END_SECTION:activity-->
 
 ## Todoist Stats
