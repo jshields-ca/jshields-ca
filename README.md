@@ -33,8 +33,8 @@ I am a creator and technologist dedicated to building compelling digital experie
 <!-- TODO-IST:START -->
 🏆  **10,921** Karma Points           
 🌸  Completed **0** tasks today           
-✅  Completed **1,174** tasks so far           
-🔥  Current streak: **1 day**           
+✅  Completed **1,175** tasks so far           
+🔥  Current streak: **0 days** - Start one today!           
 ⏳  Longest streak is **23** days
 <!-- TODO-IST:END -->
 
