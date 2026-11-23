@@ -31,7 +31,7 @@ I am a creator and technologist dedicated to building compelling digital experie
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  **10,917** Karma Points           
+🏆  **10,913** Karma Points           
 🌸  Completed **0** tasks today           
 ✅  Completed **1,176** tasks so far           
 🔥  Current streak: **0 days** - Start one today!           
